@@ -178,3 +178,10 @@ main section {
 .download-cv {
   text-align: center;
 }
+
+footer {
+  display: flex;
+  background: #fff8f3;
+  margin-top: 100px;
+  padding: 100px 200px;
+}
